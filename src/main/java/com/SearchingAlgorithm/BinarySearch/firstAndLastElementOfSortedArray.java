@@ -20,6 +20,7 @@ public class firstAndLastElementOfSortedArray {
         return ans;
         }
 
+
         //this function just returns index values of target
         public static int search(int[]nums, int target, boolean findStartIndex){
             int ans = -1;
